@@ -4,7 +4,7 @@
 
 Docker container containing the [Handle.net][handle.net] server software bundled
 with [JDBC](http://www.oracle.com/technetwork/java/javase/jdbc/index.html)
-divers for [MySQL](https://www.mysql.com/) and
+drivers for [MySQL](https://www.mysql.com/) and
 [PostgreSQL](https://www.postgresql.org/). For usage instructions refer to the
 [Handle.net software user manual](
 https://www.handle.net/tech_manual/HN_Tech_Manual_8.pdf). The server software

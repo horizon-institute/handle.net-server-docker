@@ -8,7 +8,7 @@ drivers for [MySQL](https://www.mysql.com/) and
 [PostgreSQL](https://www.postgresql.org/). For usage instructions refer to the
 [Handle.net software user manual](
 https://www.handle.net/tech_manual/HN_Tech_Manual_8.pdf). The server software
-is install at ```/handle.net-server```.
+is installed at ```/handle.net-server```.
 
 ## Licenses
 
